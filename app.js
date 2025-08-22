@@ -64,4 +64,3 @@ function limparLista(){ // Limpa a lista de amigos e o resultado
         document.getElementById("listaAmigos").innerHTML = "";// Limpa a lista de amigos na interface
         document.getElementById("resultado").innerHTML = "";// Limpa o resultado na interface
 }
-
